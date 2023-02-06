@@ -1,2 +1,2 @@
 # DRQN-Atari-pong
-<img src='' />
+<img src='docs/Pong-v1.gif' />
